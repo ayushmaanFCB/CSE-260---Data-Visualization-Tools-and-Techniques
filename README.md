@@ -1,12 +1,16 @@
 # CSE 260 - Data Visualization Tools and Techniques
 
-<b>Ayushmaan Das (E0121037) - B.Tech CSE AI and ML [2nd Year]</b>
+<hr>
+
+<b>Ayushmaan Das (E0121037) - B.Tech CSE AI and ML [2nd Year]</b><br>
 Sri Ramachandra Faculty of Engineering and Technology, SRIHER, Chennai.
 
 - This repository is for the course CSE 260 - DVTT
 - It contains all the submissions and datasets used for the course
 - Maintains a track record of the work done across the course
 - Submitted PDFs are numbered in order of assignment and submission
+
+<hr>
 
 <b> Tableau Profile : </b> <i>https://public.tableau.com/app/profile/ayushmaan.das</i>
 
