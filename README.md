@@ -1,7 +1,5 @@
 # CSE 260 - Data Visualization Tools and Techniques
 
-<hr>
-
 <b>Ayushmaan Das (E0121037) - B.Tech CSE AI and ML [2nd Year]</b><br>
 Sri Ramachandra Faculty of Engineering and Technology, SRIHER, Chennai.
 
